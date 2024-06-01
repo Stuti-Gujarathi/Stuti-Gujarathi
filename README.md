@@ -15,7 +15,7 @@ Currently, I'm on a learning path exploring Power BI. Excited about the prospect
 
 📫 Connect with Me:
 [LinkedIn](www.linkedin.com/in/stuti-gujarathi-82a334223)
-[Gmail](sg05.tech@gmail.com) or (stuti.gujarathi05@gmail.com)
+[Gmail](stuti.gujarathi05@gmail.com)
 
 🎯 Let's Innovate Together!
 Looking forward to connecting with fellow enthusiasts, developers, and innovators to create meaningful solutions and make a positive impact in the world of technology.

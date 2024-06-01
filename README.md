@@ -19,3 +19,6 @@ Currently, I'm on a learning path exploring Power BI. Excited about the prospect
 
 🎯 Let's Innovate Together!
 Looking forward to connecting with fellow enthusiasts, developers, and innovators to create meaningful solutions and make a positive impact in the world of technology.
+
+Tools and Languages:
+ 📱 Android| 🅱️ Bootstrap | ⚙️ C++ | 🎨 CSS3 |  ☕ Java | 📜 JavaScript  | 🐧 Linux | 🗄️ MySQL | 🔍 OpenCV | 🏛️ Oracle | 🐼 Pandas | 🐍 Python | ⚙️ React | 🧠 scikit-learn | 🌊 Seaborn | 🛠️ TensorFlow |🎈 VB.NET

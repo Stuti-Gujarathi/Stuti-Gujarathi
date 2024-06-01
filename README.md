@@ -3,6 +3,7 @@
 I'm Stuti Gujarathi, a passionate computer engineer with a specialization in Artificial Intelligence and Machine Learning and a penchant for Java development. My goal is to craft innovative and impactful solutions that contribute to making the world a better place.
 
 🚀 Expertise:
+
 AIML: With a strong foundation in Artificial Intelligence and Machine Learning, I dive into data science, predictive analytics, and intelligent systems design. I believe in harnessing AI's power to solve real-world problems and enhance user experiences.
 
 Java Developer: Proficient in Java development, I enjoy building robust and scalable applications. From backend systems to enterprise solutions, I thrive on the challenges of Java development and continually seek to enhance my skills in this domain.

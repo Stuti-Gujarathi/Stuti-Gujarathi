@@ -11,9 +11,6 @@ Java Developer: Proficient in Java development, I enjoy building robust and scal
 💼 Projects:
 Available at: https://github.com/Stuti-Gujarathi
 
-📚 Learning Journey:
-Currently, I'm on a learning path exploring Power BI. Excited about the prospects of data visualization and analytics, I aim to harness the capabilities of Power BI to derive actionable insights and drive informed decision-making.
-
 📫 Connect with Me:
 [LinkedIn](www.linkedin.com/in/stuti-gujarathi-82a334223)
 [Gmail](stuti.gujarathi05@gmail.com)

@@ -1,22 +1,118 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Stuti Gujarathi</h1>
+<h3 align="center">Software Engineer @ Capgemini | .NET Backend Developer | AI-Aware Engineer | Cloud Enthusiast</h3>
 
-I'm Stuti Gujarathi, a passionate computer engineer with a specialization in Artificial Intelligence and Machine Learning and a penchant for Java development. My goal is to craft innovative and impactful solutions that contribute to making the world a better place.
+---
 
-🚀 Expertise:
+## 💫 About Me
 
-AIML: With a strong foundation in Artificial Intelligence and Machine Learning, I dive into data science, predictive analytics, and intelligent systems design. I believe in harnessing AI's power to solve real-world problems and enhance user experiences.
+💻 Software Engineer with experience in building **scalable backend applications using the .NET ecosystem**
 
-Java Developer: Proficient in Java development, I enjoy building robust and scalable applications. From backend systems to enterprise solutions, I thrive on the challenges of Java development and continually seek to enhance my skills in this domain.
+🔹 Strong in **ASP.NET Core, C#, SQL Server, Angular**  
+🔹 Passionate about **clean architecture, system design & performance optimization**  
+🔹 Experienced in **REST APIs, JWT Authentication, Role-based Authorization**  
+🔹 Actively solving **Data Structures & Algorithms** problems  
 
-💼 Projects:
-Available at: https://github.com/Stuti-Gujarathi
+💡 I focus on building **secure, maintainable, and high-performance systems** that solve real-world problems.
 
-📫 Connect with Me:
-[LinkedIn](www.linkedin.com/in/stuti-gujarathi-82a334223)
-[Gmail](stuti.gujarathi05@gmail.com)
+---
 
-🎯 Let's Innovate Together!
-Looking forward to connecting with fellow enthusiasts, developers, and innovators to create meaningful solutions and make a positive impact in the world of technology.
+## 🧠 Continuous Learning & AI Readiness
 
-Tools and Languages:
-📱 Android | 🅱️ Bootstrap | ⚙️ C++ | 🎨 CSS3 |  ☕ Java | 📜 JavaScript  | 🐧 Linux | 🗄️ MySQL | 🔍 OpenCV | 🏛️ Oracle | 🐼 Pandas | 🐍 Python | ⚙️ React | 🧠 scikit-learn | 🌊 Seaborn | 🛠️ TensorFlow |🎈 VB.NET
+I strongly believe in **continuous learning and adapting to emerging technologies**.
+
+While my core expertise lies in **backend development using .NET**, I actively explore:
+
+- AI-powered application integration  
+- Intelligent backend systems  
+- Data-driven decision systems  
+- Cloud-based scalable architectures  
+
+🎯 My goal is to build **future-ready applications combining backend engineering with intelligent capabilities**
+
+---
+
+## 🚀 What I Do
+
+- 🔧 Build RESTful APIs using **ASP.NET Core & Entity Framework**
+- 🗄 Design optimized **database schemas & SQL queries**
+- 🔐 Implement **JWT Authentication & Role-Based Authorization**
+- ☁️ Explore **Cloud technologies (Azure & AWS)**
+- 🧠 Solve **DSA problems** for strong problem-solving skills
+- 🤖 Explore **AI integrations in backend systems**
+
+---
+
+## 🏆 Featured Projects
+
+### ✈️ AeroTrip – Flight Management System
+- Full-stack flight booking system (Admin + Passenger modules)
+- Booking, payment, transaction history, role-based dashboards
+- Built with **ASP.NET Core, SQL Server, Angular**
+
+---
+
+### 🔮 AstroConnect – Astrology Consultation Platform
+- Consultation booking platform with secure authentication
+- Client & astrologer management, earnings tracking
+- Built with **Spring Boot, PostgreSQL, JWT**
+
+---
+
+### 🔗 Blockchain Land Registration System
+- Blockchain-based system for land ownership validation
+- Research Paper: **TitleGuard: Safeguarding Property Rights through Blockchain**
+
+---
+
+## 🧠 Technical Skills
+
+### 👨‍💻 Languages
+`C#` `Java` `SQL` `JavaScript`
+
+### ⚙️ Backend
+`ASP.NET Core` `Web API` `Entity Framework` `Spring Boot`
+
+### 🎨 Frontend
+`Angular` `HTML` `CSS` `Bootstrap`
+
+### 🗄 Databases
+`SQL Server` `MySQL` `PostgreSQL`
+
+### ☁️ Cloud & Tools
+`Azure` `AWS Basics` `Git` `GitHub` `Swagger` `Postman`
+
+### 🤖 AI/ML Awareness
+`Machine Learning Basics` `AI Integration Concepts` `Data Processing`
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Stuti-Gujarathi&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stuti-Gujarathi&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+💼 LinkedIn : www.linkedin.com/in/stuti-gujarathi-82a334223
+📧 Email : stuti.gujarathi05@gmail.com
+
+---
+
+
+## 🔮 Future Vision
+
+I aim to grow as a **Backend + Cloud + AI-integrated Systems Engineer** building:
+
+✔ Scalable systems  
+✔ Intelligent platforms  
+✔ High-performance APIs  
+✔ Real-world impactful solutions  
+
+---
+
+⭐ *“Code. Scale. Innovate. Repeat.”*
+

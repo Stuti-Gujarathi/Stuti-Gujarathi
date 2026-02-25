@@ -42,28 +42,6 @@ While my core expertise lies in **backend development using .NET**, I actively e
 
 ---
 
-## 🏆 Featured Projects
-
-### ✈️ AeroTrip – Flight Management System
-- Full-stack flight booking system (Admin + Passenger modules)
-- Booking, payment, transaction history, role-based dashboards
-- Built with **ASP.NET Core, SQL Server, Angular**
-
----
-
-### 🔮 AstroConnect – Astrology Consultation Platform
-- Consultation booking platform with secure authentication
-- Client & astrologer management, earnings tracking
-- Built with **Spring Boot, PostgreSQL, JWT**
-
----
-
-### 🔗 Blockchain Land Registration System
-- Blockchain-based system for land ownership validation
-- Research Paper: **TitleGuard: Safeguarding Property Rights through Blockchain**
-
----
-
 ## 🧠 Technical Skills
 
 ### 👨‍💻 Languages

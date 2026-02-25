@@ -133,11 +133,16 @@ AI-based computer vision system for real-time mask detection.
 
 ---
 
-## 🏆 Certifications & Learning  
+## 🏆 Certifications & Professional Learning  
 
-- Microsoft Learn – .NET & Cloud Fundamentals *(in progress)*  
-- Data Structures & Algorithms – Problem Solving Track  
-- AI/ML Foundations – Self-learning  
+### ☁️ Cloud & Platform  
+`Microsoft Azure AZ-900 (Fundamentals)` • `Microsoft Azure AZ-204 (Developer Associate)` • `AWS Certified Developer – Associate`
+
+### 🤖 AI & Emerging Tech  
+`Generative AI Certification` • `Machine Learning & TensorFlow` • `Prompt Engineering`
+
+### 💻 Software Engineering  
+`Full Stack .NET Development` • `Blockchain Technologies Certification`
 
 ---
 

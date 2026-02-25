@@ -132,7 +132,6 @@ Blockchain-based land registry system ensuring secure property ownership.
 AI-based computer vision system for real-time mask detection.
 
 ---
-
 ## 🏆 Certifications & Professional Learning  
 
 ### ☁️ Cloud & Platform  
@@ -143,6 +142,9 @@ AI-based computer vision system for real-time mask detection.
 
 ### 💻 Software Engineering  
 `Full Stack .NET Development` • `Blockchain Technologies Certification`
+
+### 🧩 Engineering Practices & Tools  
+`SQL & Database Engineering` • `REST API Design & Development` • `CI/CD Pipelines` • `SDLC & Agile Methodologies` • `Git & Version Control`
 
 ---
 

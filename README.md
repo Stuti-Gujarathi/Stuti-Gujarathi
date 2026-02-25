@@ -40,43 +40,71 @@ I specialize in designing **clean architecture systems**, building **REST APIs**
 - 🤖 Explore **AI integrations in backend systems**
 
 ---
-
 ## 🧠 Tech Stack  
 
-### 👨‍💻 Languages  
-![C#](https://img.shields.io/badge/C%23-Programming-blue)  
-![Java](https://img.shields.io/badge/Java-Programming-orange)  
-![SQL](https://img.shields.io/badge/SQL-Database-green)  
-![JavaScript](https://img.shields.io/badge/JavaScript-Frontend-yellow)
+### 💻 Core Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,java,js" />
+</p>
 
-### ⚙️ Backend  
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-Web%20API-purple)  
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-ORM-blueviolet)  
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-Java%20Backend-brightgreen)
+`C#` `Java` `SQL` `JavaScript`
 
-### 🎨 Frontend  
-![Angular](https://img.shields.io/badge/Angular-Frontend-red)  
-![HTML](https://img.shields.io/badge/HTML-Markup-orange)  
-![CSS](https://img.shields.io/badge/CSS-Styling-blue)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-UI-purple)
+---
 
-### 🗄 Databases  
-![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red)  
-![MySQL](https://img.shields.io/badge/MySQL-Database-blue)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-336791)
+### ⚙️ Backend Engineering  
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,spring" />
+</p>
 
-### ☁️ Cloud & Tools  
-![Azure](https://img.shields.io/badge/Azure-Cloud-blue)  
-![AWS](https://img.shields.io/badge/AWS-Cloud-orange)  
-![Git](https://img.shields.io/badge/Git-VersionControl-black)  
-![Swagger](https://img.shields.io/badge/Swagger-API%20Docs-green)  
-![Postman](https://img.shields.io/badge/Postman-API%20Testing-orange)
+`ASP.NET Core Web API` `Entity Framework Core` `REST API Design` `JWT Authentication` `Role-Based Authorization`
+
+---
+
+### 🎨 Frontend Development  
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap" />
+</p>
+
+`Angular` `HTML5` `CSS3` `Bootstrap`
+
+---
+
+### 🗄 Database & Persistence  
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+`SQL Server` `MySQL` `PostgreSQL`  
+`Database Design` `Query Optimization` `Normalization`
+
+---
+
+### ☁️ Cloud & Dev Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=azure,aws,git,github,postman" />
+</p>
+
+`Microsoft Azure` `AWS (Fundamentals)` `Git` `GitHub` `Swagger` `Postman`
+
+---
+
+### 🧩 Architecture & Practices  
+
+`Microservices Architecture`  
+`Clean Architecture`  
+`SOLID Principles`  
+`System Design`  
+`Scalable API Design`  
+`Secure Authentication Systems`
+
+---
 
 ### 🤖 AI / ML Awareness  
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-Basics-yellowgreen)  
-![AI Integration](https://img.shields.io/badge/AI-Integration-blueviolet)  
-![Data Processing](https://img.shields.io/badge/Data-Processing-lightgrey)
 
+`Machine Learning Basics`  
+`AI Integration in Backend Systems`  
+`Data Processing & Analysis`  
+`Intelligent Application Design`
 ---
 
 ## 🧩 System Design & Architecture Focus  

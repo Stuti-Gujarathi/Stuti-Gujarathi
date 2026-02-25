@@ -101,10 +101,7 @@ I specialize in designing **clean architecture systems**, building **REST APIs**
 
 ### 🤖 AI / ML Awareness  
 
-`Machine Learning Basics`  
-`AI Integration in Backend Systems`  
-`Data Processing & Analysis`  
-`Intelligent Application Design`
+`Machine Learning Basics` • `AI Integration in Backend Systems` • `Data Processing & Analysis` • `Intelligent Application Design`
 ---
 
 ## 🧩 System Design & Architecture Focus  

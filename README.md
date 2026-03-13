@@ -159,8 +159,8 @@ AI-based computer vision system for real-time mask detection.
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vrii14&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vrii14&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Stuti-Gujarathi&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stuti-Gujarathi&theme=tokyonight" height="160"/>
 </p>
 
 ---

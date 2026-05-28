@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Stuti Gujarathi  
 
 ### 🚀 Software Engineer @ Capgemini  
-**.NET Backend Engineer | Cloud & AI Enthusiast | System Design Focused**
+**Full Stack .NET Engineer| Angular | Cloud & AI Enthusiast | System Design Focused**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/stuti-gujarathi-82a334223">

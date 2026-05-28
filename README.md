@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Stuti Gujarathi  
 
-### 🚀 Software Engineer @ Capgemini  
+### 🚀 Software Engineer
 **Full Stack .NET Engineer| Angular | Cloud & AI Enthusiast | System Design Focused**
 
 <p align="left">
@@ -16,7 +16,7 @@
 
 ## 💫 About Me  
 
-I am a **Software Engineer at Capgemini** building **scalable, secure, and high-performance backend systems** using the **.NET ecosystem**.
+I am a **Software Engineer** building **scalable, secure, and high-performance backend systems** using the **.NET ecosystem**.
 
 I specialize in designing **clean architecture systems**, building **REST APIs**, and implementing **secure authentication systems**.
 

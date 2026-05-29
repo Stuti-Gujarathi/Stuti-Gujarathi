@@ -1,188 +1,272 @@
-# 👋 Hi, I'm Stuti Gujarathi  
+# 👋 Hi, I'm Stuti Gujarathi
 
 ### 🚀 Software Engineer
-**Full Stack .NET Engineer| Angular | Cloud & AI Enthusiast | System Design Focused**
+
+**Full Stack .NET Engineer | Angular | Cloud & AI Enthusiast | System Design Focused**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/stuti-gujarathi-82a334223">
-    <img src="https://img.shields.io/badge/LinkedIn-Stuti%20Gujarathi-blue?logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Stuti%20Gujarathi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:stuti.gujarathi05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://medium.com/@stuti.gujarathi05">
+    <img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/codewithstuti/">
+    <img src="https://img.shields.io/badge/Instagram-CodeWithStuti-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </p>
 
 ---
 
-## 💫 About Me  
+## 💫 About Me
 
-I am a **Software Engineer** building **scalable, secure, and high-performance backend systems** using the **.NET ecosystem**.
+Software Engineer with experience building scalable web applications using the Microsoft technology stack.
 
-I specialize in designing **clean architecture systems**, building **REST APIs**, and implementing **secure authentication systems**.
+I enjoy designing clean architectures, developing secure APIs, optimizing databases, and solving real-world engineering problems. My focus is on creating maintainable systems that can scale with business growth.
 
-🔹 Strong in **ASP.NET Core, C#, SQL Server, Angular**  
-🔹 Experienced in **JWT Authentication & Role-Based Authorization**  
-🔹 Passionate about **System Design & Performance Optimization**  
-🔹 Consistently solving **DSA problems**  
-🔹 Exploring **Cloud-native and AI-integrated backend systems**
+🔹 Software Engineer at Capgemini
+🔹 Full Stack Development with .NET & Angular
+🔹 Strong foundation in C#, ASP.NET Core, SQL Server
+🔹 Passionate about System Design & Backend Engineering
+🔹 Exploring Cloud Technologies & AI Integration
+🔹 Continuous learner focused on software craftsmanship
 
-💡 I build systems that are **production-ready, scalable, and future-proof**
+---
+
+## 🚀 What I Do
+
+* 🔧 Build scalable RESTful APIs using ASP.NET Core
+* 🗄 Design efficient database schemas and optimize SQL queries
+* 🔐 Implement JWT Authentication & Role-Based Authorization
+* ☁️ Explore Azure, AWS and cloud-native architectures
+* 🧠 Practice Data Structures & Algorithms
+* 📖 Write technical blogs and share engineering insights
+* 🤖 Learn and experiment with AI-powered applications
 
 ---
 
-## 🚀 What I Do  
+## 🧠 Tech Stack
 
-- 🔧 Build **RESTful APIs** using ASP.NET Core & Entity Framework  
-- 🗄 Design **optimized database schemas & SQL queries**  
-- 🔐 Implement **JWT Authentication & RBAC authorization systems**  
-- ☁️ Work with **Azure & AWS fundamentals**  
-- 🧠 Practice **Data Structures & Algorithms daily**  
-- 🤖 Explore **AI integrations in backend systems**
+### 💻 Languages
 
----
-## 🧠 Tech Stack  
-
-### 💻 Core Languages  
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,java,js" />
+  <img src="https://skillicons.dev/icons?i=cs,java,js,ts,html,css" />
 </p>
 
-`C#` `Java` `SQL` `JavaScript`
+### ⚙️ Backend Development
 
----
-
-### ⚙️ Backend Engineering  
 <p>
-  <img src="https://skillicons.dev/icons?i=dotnet,spring" />
+  <img src="https://skillicons.dev/icons?i=dotnet" />
 </p>
 
-`ASP.NET Core Web API` `Entity Framework Core` `REST API Design` `JWT Authentication` `Role-Based Authorization`
+`ASP.NET Core`
+`C#`
+`Entity Framework Core`
+`REST APIs`
+`JWT Authentication`
+`Authorization`
+`LINQ`
+`Microservices`
 
----
+### 🎨 Frontend Development
 
-### 🎨 Frontend Development  
 <p>
   <img src="https://skillicons.dev/icons?i=angular,html,css,bootstrap" />
 </p>
 
-`Angular` `HTML5` `CSS3` `Bootstrap`
+`Angular`
+`TypeScript`
+`Responsive Design`
+`Bootstrap`
 
----
+### 🗄 Databases
 
-### 🗄 Database & Persistence  
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres" />
 </p>
 
-`SQL Server` `MySQL` `PostgreSQL`  
-`Database Design` `Query Optimization` `Normalization`
+`SQL Server`
+`MySQL`
+`PostgreSQL`
+`Database Design`
+`Query Optimization`
 
----
+### ☁️ Cloud & Dev Tools
 
-### ☁️ Cloud & Dev Tools  
 <p>
   <img src="https://skillicons.dev/icons?i=azure,aws,git,github,postman" />
 </p>
 
-`Microsoft Azure` `AWS (Fundamentals)` `Git` `GitHub` `Swagger` `Postman`
+`Azure`
+`AWS`
+`Git`
+`GitHub`
+`Swagger`
+`Postman`
 
----
+### 🏗 Architecture & Engineering
 
-### 🧩 Architecture & Practices  
-
-`Microservices Architecture`  
-`Clean Architecture`  
-`SOLID Principles`  
-`System Design`  
-`Scalable API Design`  
+`Clean Architecture`
+`Microservices`
+`SOLID Principles`
+`System Design`
+`Design Patterns`
+`Scalable API Design`
+`Performance Optimization`
 `Secure Authentication Systems`
 
 ---
 
-### 🤖 AI / ML Awareness  
+## 🧩 Engineering Focus
 
-`Machine Learning Basics` • `AI Integration in Backend Systems` • `Data Processing & Analysis` • `Intelligent Application Design`
----
+I actively invest time in improving my software engineering skills in:
 
-## 🧩 System Design & Architecture Focus  
-
-I actively work on improving my **low-level & high-level system design skills**, including:
-
-- Microservices Architecture  
-- REST API Design Standards  
-- Authentication & Authorization Patterns  
-- Database Design & Optimization  
-- Scalability & Performance Engineering  
-- Clean Architecture & SOLID Principles  
+* Backend Architecture
+* Distributed Systems
+* System Design
+* Authentication & Authorization
+* Database Optimization
+* Cloud Computing
+* API Security
+* Scalability Engineering
+* Software Design Patterns
 
 ---
 
-## 📌 Featured Projects  
+## 📌 Featured Projects
 
-### 🔹 AstroConnect  
-Full-stack astrology consultation system with authentication, booking, and client management.
+### 🔹 AstroConnect
 
-### 🔹 AeroTrip Flight Management System  
-Enterprise-level flight booking platform with role-based dashboards and payment integration.
+Full-stack astrology consultation platform with secure authentication, booking management, client tracking, and role-based access control.
 
-### 🔹 Land Registration using Blockchain  
-Blockchain-based land registry system ensuring secure property ownership.
+### 🔹 AeroTrip Flight Management System
 
-### 🔹 Face Mask Detection  
-AI-based computer vision system for real-time mask detection.
+Enterprise flight booking platform featuring payment processing, dashboard analytics, role management, and scalable backend architecture.
 
----
-## 🏆 Certifications & Professional Learning  
+### 🔹 Land Registration Using Blockchain
 
-### ☁️ Cloud & Platform  
-`Microsoft Azure AZ-900 (Fundamentals)` • `Microsoft Azure AZ-204 (Developer Associate)` • `AWS Certified Developer – Associate`
+Blockchain-based property registration platform focused on transparency, security, and ownership verification.
 
-### 🤖 AI & Emerging Tech  
-`Generative AI Certification` • `Machine Learning & TensorFlow` • `Prompt Engineering`
+### 🔹 Face Mask Detection System
 
-### 💻 Software Engineering  
-`Full Stack .NET Development` • `Blockchain Technologies Certification`
-
-### 🧩 Engineering Practices & Tools  
-`SQL & Database Engineering` • `REST API Design & Development` • `CI/CD Pipelines` • `SDLC & Agile Methodologies` • `Git & Version Control`
+Computer vision application leveraging machine learning for real-time face mask detection and compliance monitoring.
 
 ---
 
-## 📈 DSA Progress  
+## 🏆 Certifications & Learning
 
-- Solving problems on **LeetCode / GFG**  
-- Focus on **Arrays, Strings, Trees, Graphs, DP**  
-- Preparing for **Product-based companies**
+### ☁️ Cloud
+
+* Microsoft Azure AZ-900
+* Microsoft Azure AZ-204
+* AWS Certified Developer Associate (Learning Path)
+
+### 🤖 AI & Emerging Technologies
+
+* Generative AI
+* Prompt Engineering
+* Machine Learning Fundamentals
+* AI Integration Concepts
+
+### 💻 Software Engineering
+
+* Full Stack .NET Development
+* REST API Development
+* SQL & Database Engineering
+* Agile & SDLC Practices
 
 ---
 
-## 📊 GitHub Stats  
+## ✍️ Latest Content
+
+### 📚 Medium Articles
+
+I regularly write about:
+
+* ASP.NET Core
+* System Design
+* Authentication & Authorization
+* Performance Optimization
+* Software Engineering Best Practices
+* Cloud & AI
+
+➡️ **Read here:**
+**https://medium.com/@stuti.gujarathi05**
+
+### 📸 CodeWithStuti
+
+Sharing content on:
+
+* .NET Development
+* Career Growth
+* System Design
+* Backend Engineering
+* Interview Preparation
+* Developer Learning
+
+➡️ **Follow:**
+**https://www.instagram.com/codewithstuti/**
+
+---
+
+## 📈 DSA Journey
+
+* Solving problems on LeetCode & GeeksforGeeks
+* Focus Areas:
+
+  * Arrays
+  * Strings
+  * Linked Lists
+  * Trees
+  * Graphs
+  * Dynamic Programming
+* Preparing for Product-Based Companies
+
+---
+
+## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Stuti-Gujarathi&show_icons=true&theme=tokyonight" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stuti-Gujarathi&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Stuti-Gujarathi&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Stuti-Gujarathi&theme=tokyonight" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stuti-Gujarathi&layout=compact&theme=tokyonight"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me  
+## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/stuti-gujarathi-82a334223  
-- 📧 Email: stuti.gujarathi05@gmail.com  
+💼 LinkedIn
+https://www.linkedin.com/in/stuti-gujarathi-82a334223
 
----
+✍️ Medium
+https://medium.com/@stuti.gujarathi05
 
-## 🔮 Future Vision  
+📸 Instagram (CodeWithStuti)
+https://www.instagram.com/codewithstuti/
 
-I aim to become a **Top-tier Backend + Cloud + AI Systems Engineer** building:
-
-✔ Scalable distributed systems  
-✔ Intelligent platforms  
-✔ High-performance APIs  
-✔ Real-world impactful products  
+📧 Email
+[stuti.gujarathi05@gmail.com](mailto:stuti.gujarathi05@gmail.com)
 
 ---
 
-## ⭐ Personal Motto  
+## 🎯 Current Goals
 
-> **Code. Scale. Innovate. Repeat.**
+✔ Master System Design & Distributed Systems
+✔ Build Production-Scale Cloud Applications
+✔ Contribute to Open Source
+✔ Create Technical Content that Helps Developers Grow
+✔ Expand Expertise in AI-Powered Software Systems
+
+---
+
+## ⭐ Personal Motto
+
+> **Build. Learn. Share. Repeat.**
+> Turning ideas into scalable software and continuous growth into a habit.

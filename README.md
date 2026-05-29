@@ -242,7 +242,7 @@ Sharing content on:
 ## 🌐 Connect With Me
 
 💼 LinkedIn
-https://www.linkedin.com/in/stuti-gujarathi-82a334223
+https://www.linkedin.com/in/stuti-gujarathi
 
 ✍️ Medium
 https://medium.com/@stuti.gujarathi05

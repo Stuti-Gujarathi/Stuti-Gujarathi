@@ -27,7 +27,6 @@ Software Engineer with experience building scalable web applications using the M
 
 I enjoy designing clean architectures, developing secure APIs, optimizing databases, and solving real-world engineering problems. My focus is on creating maintainable systems that can scale with business growth.
 
-🔹 Software Engineer at Capgemini
 🔹 Full Stack Development with .NET & Angular
 🔹 Strong foundation in C#, ASP.NET Core, SQL Server
 🔹 Passionate about System Design & Backend Engineering

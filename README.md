@@ -17,6 +17,9 @@
   <a href="https://www.instagram.com/codewithstuti/">
     <img src="https://img.shields.io/badge/Instagram-CodeWithStuti-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
+  <a href="https://stutigujarathi-portfolio.netlify.app/">
+    <img src="https://stutigujarathi-portfolio.netlify.app/?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
 </p>
 
 ---

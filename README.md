@@ -4,23 +4,28 @@
 
 **Full Stack .NET Engineer | Angular | Cloud & AI Enthusiast | System Design Focused**
 
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/stuti-gujarathi-82a334223">
-    <img src="https://img.shields.io/badge/LinkedIn-Stuti%20Gujarathi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/stuti-gujarathi-82a334223" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Stuti%20Gujarathi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:stuti.gujarathi05@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://medium.com/@stuti.gujarathi05">
-    <img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-000000?style=for-the-badge&logo=medium&logoColor=white" />
+  <a href="https://medium.com/@stuti.gujarathi05" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-Read%20My%20Blogs-000000?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" />
   </a>
-  <a href="https://www.instagram.com/codewithstuti/">
-    <img src="https://img.shields.io/badge/Instagram-CodeWithStuti-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.instagram.com/codewithstuti/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-CodeWithStuti-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://stutigujarathi-portfolio.netlify.app/">
-    <img src="https://stutigujarathi-portfolio.netlify.app/?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://www.youtube.com/@Stuti_Gujarathi_codewithstuti" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
+  <a href="https://stutigujarathi-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio Website" />
   </a>
 </p>
+
 
 ---
 
